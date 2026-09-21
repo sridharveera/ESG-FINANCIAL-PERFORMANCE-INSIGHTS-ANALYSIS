@@ -125,11 +125,11 @@ Average ESG Overall score increases from 51.4 in 2015 to 57.8 in 2025.
 
 ### Financial Performance Dashboard
 
-![Financial Dashboard](screenshots/financial-dashboard.png)
+![Financial Dashboard](screenshots/financial-dashboard.png.png)
 
 ### ESG & Sustainability Dashboard
 
-![ESG Dashboard](screenshots/esg-dashboard.png)
+![ESG Dashboard](screenshots/esg-dashboard.png.png)
 
 ## 📌 Project Limitations
 
